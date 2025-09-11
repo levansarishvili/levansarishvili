@@ -11,101 +11,46 @@ Front-End Developer
 * 🧠  I'm learning React.js, Next.js, Node.js
 * 🤝  I'm open to collaborating on Interesting projects with fellow tech enthusiasts.
 
-### Skills
+### 💻 Tech Stack
 
 
  <p align="left">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer""
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-          width="36"
-          height="36"
-          alt="Git"
-        /></a
-      >&nbsp;&nbsp;<a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-          width="36"
-          height="36"
-          alt="JavaScript" /></a
-      >&nbsp;&nbsp;<a
-        href="https://www.typescriptlang.org/"
-        target="_blank"
-        rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-          width="36"
-          height="36"
-          alt="TypeScript" /></a
-      >&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
-          width="36"
-          height="36"
-          alt="VS Code" /></a
-      ><a
-        href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-        target="_blank"
-        rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-          width="36"
-          height="36"
-          alt="HTML5" /></a
-      >&nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-          width="36"
-          height="36"
-          alt="React" /></a
-      >&nbsp;&nbsp;<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
-          width="36"
-          height="36"
-          alt="NextJs" /></a
-      >&nbsp;&nbsp;<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-          width="36"
-          height="36"
-          alt="CSS3" /></a
-      >&nbsp;&nbsp;<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
-          width="36"
-          height="36"
-          alt="Sass" /></a
-      >&nbsp;&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-          width="36"
-          height="36"
-          alt="TailwindCSS" /></a
-      >&nbsp;&nbsp;<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-          width="36"
-          height="36"
-          alt="PostgreSQL" /></a
-      >&nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-          width="36"
-          height="36"
-          alt="Figma"
-      /></a>
-    </p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  </br>
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  </br>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+ </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/levansarishvili" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/levan-s-b87245b1/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
+<p align='left'>
+ <a href="https://www.linkedin.com/in/levan-sarishvili/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a> 
 
-### Badges
+ <a mailto="levanisarishvili322@gmail.com"> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a> 
+ 
+ <a href="https://t.me/levan_sarishvili" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+ </a> 
+</p>
+
 
 <b>My GitHub Stats</b>
 
