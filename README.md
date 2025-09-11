@@ -37,7 +37,7 @@ Front-End Developer
 
 ### Socials
 
-<p align='left'>
+<div align='left'>
  <a href="https://www.linkedin.com/in/levan-sarishvili/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
  </a> 
@@ -49,9 +49,11 @@ Front-End Developer
  <a href="https://t.me/levan_sarishvili" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
  </a> 
-</p>
+</div>
 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/levansarishvili"> <img src="https://github-readme-stats.vercel.app/api?username=levansarishvili&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="levansarishvili's GitHub stats" /> </a> <a href="http://www.github.com/levansarishvili"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=levansarishvili&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> </a> <a href="https://github.com/levansarishvili" align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levansarishvili&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /> </a>
+<a href="http://www.github.com/levansarishvili"> <img src="https://github-readme-stats.vercel.app/api?username=levansarishvili&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="levansarishvili's GitHub stats" /> </a> 
+
+<a href="https://github.com/levansarishvili" align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levansarishvili&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /> </a>
