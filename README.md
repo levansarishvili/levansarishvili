@@ -4,7 +4,7 @@ Hi 👋 My name is Levan Sarishvili
 Front-End Developer
 -------------------
 
-🧑‍💻 I’m a junior front-end developer with a passion for building responsive, user-friendly web applications. Skilled in HTML, CSS, JavaScript, and React, I love turning design concepts into interactive experiences. I’m always expanding my knowledge of new technologies to improve my craft and contribute to impactful projects.
+🧑‍💻 I’m a junior front-end developer who enjoys turning ideas into functional, user-friendly websites. My main tools are HTML, CSS, JavaScript, and React, and I’m always trying to learn new ways to write better, cleaner code. I started my career in a different field but moved to tech because I enjoy problem-solving and building things that people actually use.
 
 * 🌍  I'm based in Tbilisi, Georgia.
 * ✉️  You can contact me at [levanisarishvili322@gmail.com](mailto:levanisarishvili322@gmail.com)
